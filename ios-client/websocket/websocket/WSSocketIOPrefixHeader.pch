@@ -1,0 +1,19 @@
+//
+//  WSSocketIOPrefixHeader.pch
+//  websocket
+//
+//  Created by hong7 on 2016/12/12.
+//  Copyright © 2016年 hong7. All rights reserved.
+//
+
+#ifndef WSSocketIOPrefixHeader_pch
+#define WSSocketIOPrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "WSLogger.h"
+
+
+
+#endif /* WSSocketIOPrefixHeader_pch */

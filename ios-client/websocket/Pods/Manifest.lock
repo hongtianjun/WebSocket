@@ -1,0 +1,25 @@
+PODS:
+  - CocoaLumberjack (3.0.0):
+    - CocoaLumberjack/Default (= 3.0.0)
+    - CocoaLumberjack/Extensions (= 3.0.0)
+  - CocoaLumberjack/Core (3.0.0)
+  - CocoaLumberjack/Default (3.0.0):
+    - CocoaLumberjack/Core
+  - CocoaLumberjack/Extensions (3.0.0):
+    - CocoaLumberjack/Default
+  - Socket.IO-Client-Swift (8.1.2)
+  - SocketRocket (0.5.1)
+
+DEPENDENCIES:
+  - CocoaLumberjack
+  - Socket.IO-Client-Swift (~> 8.1.2)
+  - SocketRocket
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: c823149bccc5519a9447aeb433be7b1212a7d6a5
+  Socket.IO-Client-Swift: 542d82e6708f9901b3f6c1d134fb60fa0d09d4d1
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+
+PODFILE CHECKSUM: 95c99e732ae6baebc160d02edcafb562b022c1a7
+
+COCOAPODS: 1.0.1
