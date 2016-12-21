@@ -1,0 +1,4 @@
+/vue-client/node_modules/
+
+/ios-client/websocket/Pods/
+*.pyc
